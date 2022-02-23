@@ -8,9 +8,19 @@ package HW1;
 // HELLO
 // 01234
 public class Replace {
-    public String charReplace(String s, int x, char z) {
-        return null;
-        
+    public static void main(String[] args) {
+
+        String s  = "Make";
+        System.out.println("I Make Bread");
+        String replace = s.replace('M', 'T');
+        System.out.println("I " + replace + " Bread");
+
+
+
     }
     
 }
+//  // public String charReplace(String s, int x, char z) {
+    
+    //     return null;
+        
