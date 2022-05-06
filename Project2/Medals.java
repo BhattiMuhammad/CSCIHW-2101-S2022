@@ -100,8 +100,9 @@ System.out.println("           Total    Gold    Silver  Bronze  ");
                     }
                     medalcount.add(sum);
                      }
-  System.out.println(medalcount.get(0) + "      " + "       " + "       ");
-  
+  System.out.println(medalcount.get    (0) + "      " + "       " + "       ");
+  System.out.println(medalcount.get    (1) + "      " + "       " + "       ");
+  System.out.println(medalcount.get    (2) + "      " + "       " + "       ");
       
 }
 }
